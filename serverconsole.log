@@ -1,0 +1,325 @@
+﻿11:04:49 BattlEye Server: Initialized (v1.219, DayZ 1.24.157828)
+11:04:49 SUCCESS: SteamGameServer_Init(0,8766,2302,27016,3,1.24.157828)
+11:04:49 BattlEye Server: Config entry: RConPassword c7ee02a369db13fa2a213e2cb4992d8d
+11:04:49 BattlEye Server: Config entry: RConPort 2305
+11:04:49 BattlEye Server: Config entry: RestrictRCon 0
+11:04:49 Przydzielono role.
+11:04:49 Wczytywanie misji…
+11:04:57 [CE][Hive] :: Initializing OFFLINE
+11:04:57 [StorageDirs] :: Selected storage directory: C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\
+11:04:57 [CE][Hive] :: Loading core data ... 
+11:04:57 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+11:05:04 [CE][TypeSetup] :: 524 classes setuped...
+11:05:05 [CE][RegisterBind] :: 0 classes binded...
+11:05:05 [CE][RegisterConfig] :: 16070 config classes registered, 0 sub-counters...
+11:05:05 [CE][Hive] :: Loading map data ... 
+11:05:05 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+11:05:05 [CE][LoadPrototype] :: loaded 426 prototypes
+11:05:05   822 containers, 10876 points
+11:05:05   71 dispatches, 250 proxies
+11:05:05 !!! [CE][LoadPrototype] 5 groups have no points...
+11:05:05 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+11:05:05 [CE][LoadPrototype] :: loaded 0 prototypes
+11:05:05   55 containers, 232 points
+11:05:05   0 dispatches, 0 proxies
+11:05:05 [CE][LoadPrototype] :: last group name: Rail9...
+11:05:06 [CE][LoadMap] "Group" :: loaded 11680 groups, groups failed: 0, largest group range: 34.2
+11:05:06 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+11:05:06 [CE][LoadClusters] "Cluster" :: Loading files...
+11:05:06 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+11:05:06 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+11:05:07 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+11:05:07 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+11:05:07 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17373 instances
+11:05:07 [CE][Storage] ver:21 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+11:05:07 [CE][Storage] ver:21 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+11:05:07 [CE][Storage] ver:21 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+11:05:07 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin".
+11:05:07 !!! [CE][offlineDB] :: No Shutdown message present.
+11:05:07 [CE][offlineDB] :: Loaded 47 dynamic events 227 total types.
+11:05:07 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+11:05:07 !!! [CE][offlineDB] :: Type 'HipPack_Black' will be ignored. (Type does not exist. (Typo?))
+11:05:07 !!! [CE][offlineDB] :: Type 'HipPack_Green' will be ignored. (Type does not exist. (Typo?))
+11:05:07 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Black' will be ignored. (Type does not exist. (Typo?))
+11:05:07 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Brown' will be ignored. (Type does not exist. (Typo?))
+11:05:07 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Red' will be ignored. (Type does not exist. (Typo?))
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/CodeLock/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/CodeLock/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/CodeLock/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/BaseBuildingPlus/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/BaseBuildingPlus/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/BaseBuildingPlus/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/MMGBaseStorage/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/MMGBaseStorage/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/MMGBaseStorage/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/WindstridesClothingPack/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/WindstridesClothingPack/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/WindstridesClothingPack/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/MuchStuffPack/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/MuchStuffPack/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/MuchStuffPack/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/MuchCarKey/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/MuchCarKey/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/MuchCarKey/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/CannabisPlus/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/CannabisPlus/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/CannabisPlus/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/DrugsPLUS/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/DrugsPLUS/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/DrugsPLUS/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/Dogtags/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/Dogtags/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/Dogtags/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/FlipTransport/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/FlipTransport/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/FlipTransport/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/MortysWeapons/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/MortysWeapons/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/MortysWeapons/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/SNAFUWeapons/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/SNAFUWeapons/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/SNAFUWeapons/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/Trader/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/Trader/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/Trader/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/RemasteredArmaWeaponPack/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/RemasteredArmaWeaponPack/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/RemasteredArmaWeaponPack/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/IRPLandRover/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/IRPLandRover/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/IRPLandRover/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/MasssManyItemOverhaul/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/MasssManyItemOverhaul/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/MasssManyItemOverhaul/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/CJ187LootChest/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/CJ187LootChest/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/CJ187LootChest/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/CJ187MoreCrashsites/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/CJ187MoreCrashsites/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/CJ187MoreCrashsites/types.xml'.
+11:05:07 !!! File "DZ\worlds\chernarusplus\ce\CustomTypes/AdditionalMedicSupplies/types.xml" does not exist...
+11:05:07 !!! [ERROR][XML] :: load [DZ\worlds\chernarusplus\ce\CustomTypes/AdditionalMedicSupplies/types.xml] failed
+11:05:07 !!! [ERROR][XML] :: Failed to open file
+11:05:07 !!! [CE][offlineDB] :: Failed to read types file 'CustomTypes/AdditionalMedicSupplies/types.xml'.
+11:05:07 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+11:05:07 [CE][DE][SPAWNS] :: Total positions: 966
+11:05:07 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+11:05:07 [CE][Storage] ver:21 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+11:05:07 [CE][Storage] ver:21 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+11:05:07 [CE][Storage] ver:21 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+11:05:07 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin".
+11:05:07 [CE][DynamicEvent] Load  Events:[47] Primary spawners: 47 Secondary spawners: 4
+11:05:07 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+11:05:07 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+11:05:07 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+11:05:07 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 945 items.
+11:05:07   945 items loaded. (0 failed)
+11:05:07 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+11:05:07 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+11:05:07 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+11:05:07 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1809 items.
+11:05:08   1809 items loaded. (0 failed)
+11:05:08 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+11:05:08 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+11:05:08 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+11:05:08 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2600 items.
+11:05:09   2600 items loaded. (0 failed)
+11:05:09 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+11:05:09 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+11:05:09 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+11:05:09 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin" 2211 items.
+11:05:09   2211 items loaded. (0 failed)
+11:05:09 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+11:05:09 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+11:05:09 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+11:05:09 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin" 1823 items.
+11:05:10   1823 items loaded. (0 failed)
+11:05:10 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"
+11:05:10 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.001"
+11:05:10 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.002"
+11:05:10 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin" 2195 items.
+11:05:10   2195 items loaded. (0 failed)
+11:05:10 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin"
+11:05:10 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.001"
+11:05:10 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.002"
+11:05:10 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin" 1541 items.
+11:05:10   1541 items loaded. (0 failed)
+11:05:10 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin"
+11:05:10 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.001"
+11:05:10 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.002"
+11:05:10 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin" 1470 items.
+11:05:11   1470 items loaded. (0 failed)
+11:05:11 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin"
+11:05:11 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.001"
+11:05:11 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.002"
+11:05:11 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin" 2140 items.
+11:05:11   2140 items loaded. (0 failed)
+11:05:11 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin"
+11:05:11 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.001"
+11:05:11 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.002"
+11:05:11 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin" 2705 items.
+11:05:12   2705 items loaded. (0 failed)
+11:05:12 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin"
+11:05:12 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.001"
+11:05:12 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.002"
+11:05:12 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin" 1800 items.
+11:05:12   1800 items loaded. (0 failed)
+11:05:12 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin"
+11:05:12 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.001"
+11:05:12 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.002"
+11:05:12 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin" 165 items.
+11:05:12   165 items loaded. (0 failed)
+11:05:12 [CE][Storage] ver:26 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin"
+11:05:12 [CE][Storage] ver:26 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.001"
+11:05:12 [CE][Storage] ver:26 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.002"
+11:05:12 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin" 0 items.
+11:05:12   0 items loaded. (0 failed)
+11:05:12 [CE][Storage] ver:25 stamp:2825, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+11:05:12 [CE][Storage] ver:25 stamp:2794, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.001"
+11:05:12 [CE][Storage] ver:25 stamp:2795, valid:yes, name:"C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.002"
+11:05:12 [CE][Storage] Restoring file "C:\Program Files (x86)\Omega\servers\ResistanceNostalgia\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin" 256 items.
+11:05:13   256 items loaded. (0 failed)
+11:05:13 [CE][Hive] :: Storage load took:5.58 seconds, recovery stamp:2825
+11:05:13   entity: 23163, building: 0
+11:05:13   no lifetime: 8
+11:05:13   pathgraph's: 734
+11:05:13 [CE][Hive] :: Initializing ... 
+11:05:13 [CE][InitializeMap] :: initialized: 0
+11:05:13 [CE][Hive] :: Initializing spawners ... 
+11:05:13 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:20949, Total in Map: 21561 at 0 (sec)
+11:05:13   tests:0, repeats:0 fails:0, overtime:0
+11:05:13 [CE][DynEvent] :: 47 types
+11:05:13 [00] AmbientHen
+11:05:13   Primary Spawner: "Ambient", active: yes, repeat: 1
+11:05:13 [01] AnimalBear
+11:05:13   Primary Spawner: "Animal", active: yes, repeat: 1
+11:05:13 [02] AnimalCow
+11:05:13   Primary Spawner: "Animal", active: yes, repeat: 1
+11:05:13 [03] AnimalDeer
+11:05:13   Primary Spawner: "Animal", active: yes, repeat: 1
+11:05:13 [04] AnimalGoat
+11:05:13   Primary Spawner: "Animal", active: yes, repeat: 1
+11:05:13 [05] AnimalPig
+11:05:13   Primary Spawner: "Animal", active: yes, repeat: 1
+11:05:13 [06] AnimalRoeDeer
+11:05:13   Primary Spawner: "Animal", active: yes, repeat: 1
+11:05:13 [07] AnimalSheep
+11:05:13   Primary Spawner: "Animal", active: yes, repeat: 1
+11:05:13 [08] AnimalWildBoar
+11:05:13   Primary Spawner: "Animal", active: yes, repeat: 1
+11:05:13 [09] AnimalWolf
+11:05:13   Primary Spawner: "Animal", active: yes, repeat: 1
+11:05:13 [10] InfectedArmy
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [11] InfectedArmyHard
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [12] InfectedCity
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [13] InfectedCityTier1
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [14] InfectedFirefighter
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [15] InfectedIndustrial
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [16] InfectedMedic
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [17] InfectedNBC
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [18] InfectedPolice
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [19] InfectedPoliceHard
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [20] InfectedPrisoner
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [21] InfectedReligious
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [22] InfectedSanta
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [23] InfectedSolitude
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [24] InfectedVillage
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [25] InfectedVillageTier1
+11:05:13   Primary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [26] ItemPlanks
+11:05:13   Primary Spawner: "Item", active: yes, repeat: 1
+11:05:13 [27] Loot
+11:05:13   Primary Spawner: "Loot", active: yes, repeat: 2
+11:05:13 [28] StaticAirplaneCrate
+11:05:13   Primary Spawner: "Static", active: yes, repeat: 1
+11:05:13 [29] StaticContaminatedArea
+11:05:13   Primary Spawner: "Static", active: yes, repeat: 1
+11:05:13 [30] StaticHeliCrash
+11:05:13   Primary Spawner: "Static", active: yes, repeat: 1
+11:05:13   Secondary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [31] StaticMilitaryConvoy
+11:05:13   Primary Spawner: "Static", active: yes, repeat: 1
+11:05:13   Secondary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [32] StaticPoliceSituation
+11:05:13   Primary Spawner: "Static", active: yes, repeat: 1
+11:05:13   Secondary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [33] StaticTrain
+11:05:13   Primary Spawner: "Static", active: yes, repeat: 1
+11:05:13   Secondary Spawner: "Infected", active: yes, repeat: 1
+11:05:13 [34] TrajectoryApple
+11:05:13   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:05:13 [35] TrajectoryConiferous
+11:05:13   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:05:13 [36] TrajectoryDeciduous
+11:05:13   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:05:13 [37] TrajectoryHumus
+11:05:13   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:05:13 [38] TrajectoryPear
+11:05:13   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:05:13 [39] TrajectoryPlum
+11:05:13   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:05:13 [40] TrajectoryStones
+11:05:13   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:05:13 [41] VehicleCivilianSedan
+11:05:13   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:05:13 [42] VehicleHatchback02
+11:05:13   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:05:13 [43] VehicleOffroad02
+11:05:13   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:05:13 [44] VehicleOffroadHatchback
+11:05:13   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:05:13 [45] VehicleSedan02
+11:05:13   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:05:13 [46] VehicleTruck01
+11:05:13   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:05:13 [CE][Hive] :: Initializing of spawners done.
+11:05:13 [CE][Hive] :: Init sequence finished.
+11:05:14 [IdleMode] Entering IN - save processed
+11:05:23 Average server FPS: 5187.20 (measured interval: 10 s)
+11:05:33 Average server FPS: 6664.90 (measured interval: 10 s)
+11:05:43 Average server FPS: 6628.15 (measured interval: 10 s)
+11:05:53 Average server FPS: 6411.50 (measured interval: 10 s)
+11:06:04 Average server FPS: 6762.93 (measured interval: 10 s)
+11:06:14 Average server FPS: 9594.00 (measured interval: 10 s)
+11:06:24 Average server FPS: 6075.50 (measured interval: 10 s)
+11:06:34 Average server FPS: 8532.90 (measured interval: 10 s)
+11:06:44 Average server FPS: 4456.50 (measured interval: 10 s)
+11:06:54 Average server FPS: 5062.10 (measured interval: 10 s)
+11:07:04 Average server FPS: 4363.20 (measured interval: 10 s)
+11:07:14 Average server FPS: 14145.90 (measured interval: 10 s)
+11:07:24 Average server FPS: 16742.30 (measured interval: 10 s)
+11:07:34 Average server FPS: 16738.90 (measured interval: 10 s)
+11:07:44 Average server FPS: 16647.10 (measured interval: 10 s)
